@@ -1,1 +1,1 @@
-# testing-practice-jest
+# JavaScript Testing Practice using JEST 
