@@ -1,5 +1,5 @@
 # JavaScript Testing Practice using JEST 
-> Scripts for practical tests for JavaScript functions using the Jest library.
+> In this exercise, I have written several practical tests for JavaScript functions using the Jest library. This execrise also ensures that the AAA pattern is followed accordingly to make these tests easier for other developers to read and understand. I also used the TDD approach in practice.
 
 ## Test run guid
 Performed the following steps on your terminal:
